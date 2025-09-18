@@ -9,13 +9,6 @@
  ⚡ Formanda em SI na UNICAP<br>
 </div>
 
-<div align="center">
-  <a href="https://github.com/larialbu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elyyihz&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyyihz&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
-
-
 <!-- Distintivos de Linguagens e Habilidades -->
 <div style="display: inline_block" align="center"><br>
   <img  alt="Elyy-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
