@@ -3,12 +3,10 @@
 
 <div align="center">
   <!-- GIF do Lupi / Enigma do Medo no PC -->
- <a href="https://tenor.com/view/ordem-paranormal-enigma-do-medo-opem-lupi-dumativa-gif-22143515" target="_blank">
-  <img src="https://media.tenor.com/2UvhDq5tUj8AAAAC/ordem-paranormal-enigma-do-medo-opem.gif" width="135" alt="Lupi no PC" />
-</a>
+    <img src="./assets/lupi_pc.gif" width="135" alt="Lupi no PC" />
   <br>
 
-  # Olá! Eu sou a Elyy 👋
+  # Olá! Meu nome é Elyy 👋
   ### **AI Engineer & Full-Stack Developer**
 
   <p>
@@ -75,6 +73,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elyyihz&theme=tokyonight&hide_border=true" height="145" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyyihz&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="./assets/lupi.gif" width="160" alt="Lupi no PC" />
+  <img src="./assets/meowth-pokemon.gif" width="100">
+</div>
+
 
 ---
 <!-- Footer -->
