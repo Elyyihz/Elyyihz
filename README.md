@@ -1,56 +1,83 @@
-<!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+<!-- Header Neon & Clean -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=140&section=header&fontSize=40&fontColor=7aa2f7&animation=fadeIn"/>
 
----
 <div align="center">
-  
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Elynne Lima
- 👩🏻‍💻 Sou uma desenvolvedora fullstack, criativa e apaixonada por tecnologia.<br>
- ⚡ Formanda em SI na UNICAP<br>
+  <!-- GIF do Lupi / Enigma do Medo no PC -->
+ <a href="https://tenor.com/view/ordem-paranormal-enigma-do-medo-opem-lupi-dumativa-gif-22143515" target="_blank">
+  <img src="https://media.tenor.com/2UvhDq5tUj8AAAAC/ordem-paranormal-enigma-do-medo-opem.gif" width="135" alt="Lupi no PC" />
+</a>
+  <br>
+
+  # Olá! Eu sou a Elyy 👋
+  ### **AI Engineer & Full-Stack Developer**
+
+  <p>
+    Trabalho na intersecção entre <b>Engenharia de Software</b> e <b>Inteligência Artificial</b>.<br>
+    Meu foco principal é construir agentes autônomos, pipelines de visão computacional e interfaces modernas para resolver problemas reais de negócio.
+  </p>
+
+  <!-- Links / Redes -->
+  <a href="https://www.linkedin.com/in/elynnelima/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
+  <a href="mailto:elynnelima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
+  <a href="https://instagram.com/elyylima.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" /></a>
+
 </div>
 
-<!-- Distintivos de Linguagens e Habilidades -->
-<div style="display: inline_block" align="center"><br>
-  <img  alt="Elyy-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
-  <img  alt="Elyy-Ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
-  <img  alt="Elyy-React"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;
-  <img  alt="Elyy-Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;
-  <img  alt="Elyy-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">&nbsp;
-  <img  alt="Elyy-tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">&nbsp;
-  <img alt="Elyy-node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
-  <img  alt="Elyy-boostrap" src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">&nbsp;
-  <img alt="Elyy-ReactContext"  src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">&nbsp;
-  <img  alt="Elyy-ReactQuery"  src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">&nbsp;
-  <img alt="Elyy-ReactRouter"  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">&nbsp;
-  <img  alt="Elyy-ReactHookForm"  src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">&nbsp;
-  <img alt="Elyy-ChartJS"  src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">&nbsp;
-  <img alt="Elyy-express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;
-  <img  alt="Elyy-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
-  <img alt="Elyy-Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;
-  <img  alt="Elyy-Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
-  <img  alt="Elyy-SQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
-  <img alt="Elyy-Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">&nbsp;
-  <img alt="Elyy-Linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624">&nbsp;
-  <img alt="Elyy-Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">&nbsp;
-  <img alt="Elyy-Ubuntu" src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0">&nbsp;
-  <img alt="Elyy-Win" src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0">&nbsp;
-  <img alt="Elyy-git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;
-  <img alt="Elyy-figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">&nbsp;
-  <img alt="Elyy-vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;
-  <img alt="Elyy-postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">&nbsp;
-</div>
- <br>
+<br>
 
-<div align="center"> 
-  <a href="https://instagram.com/elyylima.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:elynnelima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/elynnelima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
 
 ---
 
-<!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 O Que Eu Faço no Dia a Dia
+
+* **Agentes & Orquestração (LangGraph):** Desenvolvimento de grafos de decisão para processamento e validação de documentos, garantindo resiliência e fluxos de autocorreção quando os dados de entrada vêm com ruído.
+* **Visão Computacional & OCR:** Modelos customizados de detecção (YOLOv8) e pipelines de pré-processamento de imagens (OpenCV) para extração de dados e validação de assinaturas.
+* **Inferência Local & LLMOps:** Testes de desempenho e execução de modelos locais com `llama.cpp` e quantizações GGUF, focando em redução de latência, controle de custos e privacidade de dados.
+* **Aplicações Full-Stack:** Construção de microsserviços rápidos em Python (FastAPI), interfaces reativas em Angular e ferramentas desktop em Python (PyQt6).
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,angular,ts,docker,linux,postgres,java,spring,qt,git&perline=11" />
+</div>
+
+---
+
+### 🎧 Ouvido Agora
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=elynnelima&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=1c63a6&bar_color_cover=false">
+  </a>
+</p>
+
+---
+
+### 🚀 Principais Projetos
+
+| Projeto | Tecnologias | O que resolve |
+| :--- | :--- | :--- |
+| **📑 DocChecker** | `LangGraph`, `YOLOv8`, `FastAPI` | Auditor automatizado de conformidade documental que valida dados e assinaturas em matrículas e processos. |
+| **🔒 PIBIC Anonymizer** | `Python`, `PyQt6`, `Watchdog` | Ferramenta desktop para anonimização e sanitização de relatórios acadêmicos em tempo real (LGPD). |
+| **🖼️ Mural Multimodal** | `BLIP`, `Groq`, `Angular` | Pipeline que interpreta fotos de avisos físicos e gera cards interativos em tempo real para a web. |
+| **⚖️ JuryScan** | `Java`, `Spring Boot`, `Angular` | Plataforma jurídica full-stack estruturada com autenticação segura e gestão de documentos. |
+
+---
+
+### 📊 Estatísticas do Perfil
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elyyihz&theme=tokyonight&hide_border=true" height="145" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyyihz&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+---
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=100&section=footer"/>
+
+```
