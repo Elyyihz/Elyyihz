@@ -7,11 +7,11 @@
   <br>
 
   # Olá! Meu nome é Elyy 👋
-  ### **AI Engineer & Full-Stack Developer**
+  ### **AI Systems Engineer & Full-Stack Architect**
 
   <p>
-    Trabalho na intersecção entre <b>Engenharia de Software</b> e <b>Inteligência Artificial</b>.<br>
-    Meu foco principal é construir agentes autônomos, pipelines de visão computacional e interfaces modernas para resolver problemas reais de negócio.
+    Engenharia de software moderna focada na convergência entre <b>Sistemas Distribuídos</b> e <b>Inteligência Artificial Aplicada</b>.<br>
+    Construção de grafos com agentes autônomos (LangGraph), pipelines assíncronos de visão computacional, inferência local (vLLM / llama.cpp) e arquiteturas resilientes baseadas em Clean Architecture e DDD.
   </p>
 
   <!-- Links / Redes -->
@@ -29,20 +29,34 @@
 
 ---
 
-### 💻 O Que Eu Faço no Dia a Dia
+### 💻 Especialidades & Foco de Engenharia
 
-* **Agentes & Orquestração (LangGraph):** Desenvolvimento de grafos de decisão para processamento e validação de documentos, garantindo resiliência e fluxos de autocorreção quando os dados de entrada vêm com ruído.
-* **Visão Computacional & OCR:** Modelos customizados de detecção (YOLOv8) e pipelines de pré-processamento de imagens (OpenCV) para extração de dados e validação de assinaturas.
-* **Inferência Local & LLMOps:** Testes de desempenho e execução de modelos locais com `llama.cpp` e quantizações GGUF, focando em redução de latência, controle de custos e privacidade de dados.
-* **Aplicações Full-Stack:** Construção de microsserviços rápidos em Python (FastAPI), interfaces reativas em Angular e ferramentas desktop em Python (PyQt6).
+* **Agentes & Grafos de Decisão (LangGraph):** Orquestração de fluxos autônomos, roteamento semântico, máquinas de estado para conformidade arquitetural e pipelines auto-remediativos de infraestrutura.
+* **Visão Computacional & Inferência Distribuída:** Execução paralela com YOLOv8 e ONNX Runtime desacoplados via mensageria (RabbitMQ), além de pipelines OCR de precisão (PaddleOCR).
+* **LLMOps & Inferência Local de Alto Desempenho:** Gateways adaptativos de roteamento dinâmico entre runtimes (vLLM GPU KV-Cache vs llama.cpp GGUF Edge), otimização de latência e privacidade estrita de dados.
+* **Observabilidade & Arquitetura Limpa:** Padrões estritos de Clean Architecture, Domain-Driven Design (DDD), rastreabilidade com OpenTelemetry, Prometheus e Grafana, e automação via GitHub Actions.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,angular,ts,docker,linux,postgres,java,spring,qt,git&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,angular,ts,react,docker,postgres,rabbitmq,linux,git,githubactions&perline=11" />
 </div>
+
+---
+
+### 🚀 Principais Projetos de Portfólio
+
+| Projeto | Stack Tecnológica | O que resolve |
+| :--- | :--- | :--- |
+| **📑 [Doc Semantic Equivalence Engine](https://github.com/Elyyihz/doc-semantic-equivalence-engine)** | `FastAPI`, `LangGraph`, `vLLM`, `Qdrant`, `PaddleOCR`, `Angular 17+` | Motor de equivalência semântica e conformidade legal com RAG assíncrono e busca vetorial densa. |
+| **🎥 [Distributed Video Inference Pipeline](https://github.com/Elyyihz/distributed-video-inference-pipeline)** | `FastAPI`, `RabbitMQ`, `YOLOv8`, `ONNX Runtime`, `PostgreSQL`, `Angular 17+` | Pipeline distribuído para processamento de vídeo em lote com workers paralelos e mensageria AMQP. |
+| **🚨 [Telemetry Anomaly Autonomous Agent](https://github.com/Elyyihz/telemetry-anomaly-autonomous-agent)** | `Python`, `LangGraph`, `llama.cpp (GGUF)`, `OpenTelemetry`, `Prometheus`, `Jaeger` | Agente autônomo que correlaciona métricas time-series e traces distribuídos para diagnóstico SRE. |
+| **🛡️ [AI Augmented SAST Auditor](https://github.com/Elyyihz/ai-augmented-sast-auditor)** | `Python CLI`, `Bandit`, `GGUF Local`, `GitHub Actions (SARIF)` | Ferramenta de auditoria estática com IA em pipelines CI/CD, eliminando falsos positivos e gerando SARIF. |
+| **⚡ [Dynamic LLM Inference Router](https://github.com/Elyyihz/dynamic-llm-inference-router)** | `FastAPI`, `OpenTelemetry`, `Prometheus`, `Grafana`, `vLLM`, `llama.cpp` | API Gateway compatível com OpenAI que roteia requisições dinamicamente entre runtimes por complexidade e latência. |
+| **🏛️ [Clean Arch Multi-Agent Validator](https://github.com/Elyyihz/clean-arch-multi-agent-validator)** | `Python`, `LangGraph`, `AST Parser`, `Clean Architecture` | Orquestrador multi-agente para auditoria da Regra de Inversão de Dependência e geração de tabelas de escrita/leitura. |
+| **📊 [Calculadora IIM & UrbanFlow](https://github.com/Elyyihz/calculadora-iim)** | `React 18`, `TypeScript`, `FastAPI`, `Docker Compose`, `ESG Analytics` | Plataforma institucional e analítica para quantificação do Índice de Impacto de Mobilidade corporativa. |
 
 ---
 
@@ -53,17 +67,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=elynnelima&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=1c63a6&bar_color_cover=false">
   </a>
 </p>
-
----
-
-### 🚀 Principais Projetos
-
-| Projeto | Tecnologias | O que resolve |
-| :--- | :--- | :--- |
-| **📑 DocChecker** | `LangGraph`, `YOLOv8`, `FastAPI` | Auditor automatizado de conformidade documental que valida dados e assinaturas em matrículas e processos. |
-| **🔒 PIBIC Anonymizer** | `Python`, `PyQt6`, `Watchdog` | Ferramenta desktop para anonimização e sanitização de relatórios acadêmicos em tempo real (LGPD). |
-| **🖼️ Mural Multimodal** | `BLIP`, `Groq`, `Angular` | Pipeline que interpreta fotos de avisos físicos e gera cards interativos em tempo real para a web. |
-| **⚖️ JuryScan** | `Java`, `Spring Boot`, `Angular` | Plataforma jurídica full-stack estruturada com autenticação segura e gestão de documentos. |
 
 ---
 
@@ -79,9 +82,6 @@
   <img src="./assets/meowth-pokemon.gif" width="100">
 </div>
 
-
 ---
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=100&section=footer"/>
-
-```
